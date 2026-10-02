@@ -1,7 +1,3 @@
-# Internet Language Archaeology
-
-A short description of your project goes here.
-
 ## Project structure
 
 - `data/` - raw and processed data
