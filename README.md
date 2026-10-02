@@ -1,2 +1,15 @@
-# internet-language-archaeology
-Building a corpus from old-internet text (Usenet posts, IRC logs, GeoCities-era pages, early forums, mailing lists) and using SQL to study how online language emerged: slang, emoticons, netiquette, and how community vocabulary spread and died out.
+# Internet Language Archaeology
+
+A corpus-based data analysis project exploring language
+and communication patterns in early online communities.
+
+## Status
+
+Currently in development.
+
+## Technologies
+
+- Python
+- SQL
+- PostgreSQL
+- Pandas
