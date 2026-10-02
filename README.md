@@ -19,6 +19,56 @@ It's also important to point out that this project is a way for me to hands-on l
 
 Currently in development.
 
+## Roadmap 
+
+* [ ] **Phase 1 — Data Collection**
+
+  * Collect early-internet text corpora
+  * Start with 20 Newsgroups
+  * Expand to Usenet, IRC, and early forums
+
+* [ ] **Phase 2 — Corpus Construction**
+
+  * Clean and normalize raw text
+  * Extract metadata
+  * Build the PostgreSQL corpus
+  * Develop a custom tokenizer
+
+* [ ] **Phase 3 — Exploratory Analysis**
+
+  * Analyze word and community frequencies
+  * Explore internet slang and acronyms
+  * Analyze emoticons and capitalization
+  * Compare community vocabularies
+
+* [ ] **Phase 4 — Linguistic Analysis**
+
+  * Track vocabulary over time
+  * Identify slang emergence and decline
+  * Analyze emoticon evolution
+  * Measure quoting and netiquette patterns
+  * Investigate community-specific language
+
+* [ ] **Phase 5 — Advanced SQL**
+
+  * Window functions and CTEs
+  * Vocabulary lifecycle analysis
+  * Reply-tree analysis
+  * Community fingerprints
+  * Query optimization and indexing
+
+* [ ] **Phase 6 — Visualization**
+
+  * Create charts and linguistic timelines
+  * Build an interactive Streamlit dashboard
+  * Add term and community comparisons
+
+* [ ] **Phase 7 — Portfolio**
+
+  * Document methodology and findings
+  * Add visualizations and screenshots
+  * Publish the final analysis and reproducible pipeline
+
 ## Technologies
 
 - Python
