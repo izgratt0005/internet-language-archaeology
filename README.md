@@ -9,10 +9,7 @@ The overall project question surrounds the interest of finding out how language 
 
 #### Measurable, bite-sized questions
 
-When did terms such as lol, brb, imho, flame, and newbie become common?
-Did emoticons become shorter over time?
-How common was ALL-CAPS writing?
-Which communities developed distinctive vocabularies?
+1. When did terms such as lol, brb, imho, flame, and newbie become common?  Did emoticons become shorter over time?  How common was ALL-CAPS writing?  Which communities developed distinctive vocabularies?
 Which internet terms peaked and subsequently declined?
 How did quoting and signatures differ between communities?
 
