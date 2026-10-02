@@ -3,8 +3,6 @@
 A corpus-based data analysis project exploring language
 and communication patterns in early online communities.
 
-## Measurable questions used to further research
-
 The overall project question surrounds the interest of finding out how language and communication conventions developed in early online communities.
 
 #### Measurable, bite-sized questions
