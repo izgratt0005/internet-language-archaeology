@@ -10,10 +10,11 @@ It's also important to point out that this project is a way for me to hands-on l
 #### Measurable, bite-sized questions
 
 1. When did terms such as lol, brb, imho, flame, and newbie become common?<br>
-2. Did emoticons become shorter over time?  How common was ALL-CAPS writing?<br>
-3. Which communities developed distinctive vocabularies?<br>
-4. Which internet terms peaked and subsequently declined?<br>
-5. How did quoting and signatures differ between communities?<br>
+2. Did emoticons become shorter over time?<br>
+3. How common was ALL-CAPS writing?<br>
+4. Which communities developed distinctive vocabularies?<br>
+5. Which internet terms peaked and subsequently declined?<br>
+6. How did quoting and signatures differ between communities?<br>
 
 ## Status
 
@@ -49,7 +50,7 @@ Currently in development.
   * Measure quoting and netiquette patterns
   * Investigate community-specific language
 
-* [ ] **Phase 5 — Advanced SQL**
+* [ ] **Phase 5 — SQL**
 
   * Window functions and CTEs
   * Vocabulary lifecycle analysis
