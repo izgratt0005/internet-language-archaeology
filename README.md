@@ -24,13 +24,13 @@ Currently in development.
 
 * [ ] **Phase 1 — Data Collection**
 
-  * Collect early-internet text corpora
-  * Start with 20 Newsgroups
+  * Collect early-internet text corpora [x]
+  * Start with 20 Newsgroups [x]
   * Expand to Usenet, IRC, and early forums
 
 * [ ] **Phase 2 — Corpus Construction**
 
-  * Clean and normalize raw text
+  * Clean and normalize raw text [in-progress]
   * Extract metadata
   * Build the PostgreSQL corpus
   * Develop a custom tokenizer
