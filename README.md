@@ -24,13 +24,13 @@ Currently in development.
 
 * [ ] **Phase 1 — Data Collection**
 
-  * Collect early-internet text corpora [x]
-  * Start with 20 Newsgroups [x]
+  * Collect early-internet text corpora
+  * Start with 20 Newsgroups
   * Expand to Usenet, IRC, and early forums
 
 * [ ] **Phase 2 — Corpus Construction**
 
-  * Clean and normalize raw text [in-progress]
+  * Clean and normalize raw text
   * Extract metadata
   * Build the PostgreSQL corpus
   * Develop a custom tokenizer
@@ -69,6 +69,20 @@ Currently in development.
   * Document methodology and findings
   * Add visualizations and screenshots
   * Publish the final analysis and reproducible pipeline
+     
+PHASE 1 — Data Collection          ██████████  DONE
+
+PHASE 2 — Corpus Construction      ███████░░░  IN PROGRESS
+
+PHASE 3 — Exploratory Analysis     ███████░░░  IN PROGRESS
+
+PHASE 4 — Linguistic Analysis      ░░░░░░░░░░  NEXT
+
+PHASE 5 — SQL                      ██████░░░░  IN PROGRESS
+
+PHASE 6 — Visualization             ████░░░░░░  IN PROGRESS
+
+PHASE 7 — Portfolio                 ░░░░░░░░░░  LATER
 
 ## Technologies
 
