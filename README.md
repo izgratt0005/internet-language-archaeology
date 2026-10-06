@@ -7,18 +7,23 @@ The overall project question surrounds the interest of finding out how language 
 
 It's also important to point out that this project is a way for me to hands-on learn py/sql-postgresql in greater detail, so I will be including learning-logs to keep track of the stages and what I have learned alongside them. 
 
-#### Measurable, bite-sized questions
-
-1. When did terms such as lol, brb, imho, flame, and newbie become common?<br>
-2. Did emoticons become shorter over time?<br>
-3. How common was ALL-CAPS writing?<br>
-4. Which communities developed distinctive vocabularies?<br>
-5. Which internet terms peaked and subsequently declined?<br>
-6. How did quoting and signatures differ between communities?<br>
-
 ## Status
 
 Currently in development.
+
+PHASE 1 — Data Collection          ██████████  DONE
+
+PHASE 2 — Corpus Construction      ███████░░░  IN PROGRESS
+
+PHASE 3 — Exploratory Analysis     ███████░░░  IN PROGRESS
+
+PHASE 4 — Linguistic Analysis      ░░░░░░░░░░  NEXT
+
+PHASE 5 — SQL                      ██████░░░░  IN PROGRESS
+
+PHASE 6 — Visualization             ████░░░░░░  IN PROGRESS
+
+PHASE 7 — Portfolio                 ░░░░░░░░░░  LATER
 
 ## Roadmap 
 
@@ -69,20 +74,6 @@ Currently in development.
   * Document methodology and findings
   * Add visualizations and screenshots
   * Publish the final analysis and reproducible pipeline
-     
-PHASE 1 — Data Collection          ██████████  DONE
-
-PHASE 2 — Corpus Construction      ███████░░░  IN PROGRESS
-
-PHASE 3 — Exploratory Analysis     ███████░░░  IN PROGRESS
-
-PHASE 4 — Linguistic Analysis      ░░░░░░░░░░  NEXT
-
-PHASE 5 — SQL                      ██████░░░░  IN PROGRESS
-
-PHASE 6 — Visualization             ████░░░░░░  IN PROGRESS
-
-PHASE 7 — Portfolio                 ░░░░░░░░░░  LATER
 
 ## Technologies
 
