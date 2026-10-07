@@ -30,8 +30,8 @@ PHASE 7 — Portfolio                 ░░░░░░░░░░  LATER
 * [ ] **Phase 1 — Data Collection**
 
   * Collect early-internet text corpora
-  * Start with 20 Newsgroups as a way of testing the format.
-  * Additions: L6 corpus (Yahoo! Answers Comprehensive Questions and Answers dataset), the Geocities Archive dataset (CC0 1.0 rights waiver), SNAP Directed Friendship Network (soc-LiveJournal1). 
+  * Starting off with 20 Newsgroups as a way of testing the format.
+  * Additional databases: L6 corpus (Yahoo! Answers Comprehensive Questions and Answers dataset), the Geocities Archive dataset (CC0 1.0 rights waiver), SNAP Directed Friendship Network (soc-LiveJournal1). 
 
 * [ ] **Phase 2 — Corpus Construction**
 
